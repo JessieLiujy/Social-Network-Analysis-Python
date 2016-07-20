@@ -1,5 +1,5 @@
 # AdjacencyMatrix-Python
-**Use Python to read data from excel and create adjacency matrixes for the different type of data**
+**Use Python to read data from excel and export adjacency matrixes**
 
 About the data-example:
 * Each 1 or -1 refers to one moment that members share useful information, emotional support or casual chat
