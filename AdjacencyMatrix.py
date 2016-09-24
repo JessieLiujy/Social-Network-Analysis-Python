@@ -17,7 +17,7 @@ Useful = data.Useful
 Emotion = data.Emotion
 Casual = data.Casual
 
-# 1. Find all data:
+# 1. Find all data needed:
 # Find all rows that useful = 1
 useSender = data.loc[Useful == 1][['Sender', 'Receiver','Useful']]
 # Find all rows that useful = -1
