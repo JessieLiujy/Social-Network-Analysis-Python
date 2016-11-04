@@ -8,4 +8,5 @@ About the data-example:
 
 # adjacency matrixes
 * [Python Code](https://github.com/JessieLiujy/Social-Network-Analysis-Python/blob/master/AdjacencyMatrix.py)
-* [Data Example](https://github.com/JessieLiujy/MATH308-LinearProgrammingModelling-Python-Excel/blob/master/start(question).docx)
+* [Data (Example)](https://github.com/JessieLiujy/Social-Network-Analysis-Python/blob/master/data-example.xlsx)
+* [Output (Example)](https://github.com/JessieLiujy/Social-Network-Analysis-Python/blob/master/data-example.xlsx)
