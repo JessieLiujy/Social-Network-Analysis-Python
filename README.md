@@ -6,7 +6,7 @@ About the data-example:
 * +1 means the sender is the provider of useful information or emotional support
 * -1 means the receiver is the provider of useful information or emotional support
 
-# Adjacency Matrixe for Social Network Analysis
+# Adjacency Matrix for Social Network Analysis
 * [Python Code](https://github.com/JessieLiujy/Social-Network-Analysis-Python/blob/master/AdjacencyMatrix.py)
 * [Data (Example in Excel file)](https://github.com/JessieLiujy/Social-Network-Analysis-Python/blob/master/data-example.xlsx)
 * [Output (Example in Excel file)](https://github.com/JessieLiujy/Social-Network-Analysis-Python/blob/master/output_matrix.xlsx)
