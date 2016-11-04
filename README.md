@@ -6,4 +6,6 @@ About the data-example:
 * +1 means the sender is the provider of useful information or emotional support
 * -1 means the receiver is the provider of useful information or emotional support
 
-
+# adjacency matrixes
+* [Python Code](https://github.com/JessieLiujy/MATH308-LinearProgrammingModelling-Python-Excel/blob/master/start(question).docx)
+* [Data Example](https://github.com/JessieLiujy/MATH308-LinearProgrammingModelling-Python-Excel/blob/master/start(question).docx)
