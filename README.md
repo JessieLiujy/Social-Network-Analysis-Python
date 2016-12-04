@@ -12,6 +12,6 @@ About the data-example:
 * [Output (Example in Excel file)](https://github.com/JessieLiujy/Social-Network-Analysis-Python/blob/master/output_matrix.xlsx)
 
 # Calculate Total & Mean
-* Python Code
+* [Python Code](https://github.com/JessieLiujy/Social-Network-Analysis-Python/blob/master/total%26mean.py)
 * Data (Example in Excel file)
 * Output (Example in Excel file)
