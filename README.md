@@ -14,4 +14,4 @@ About the data-example:
 # Calculate Total & Mean
 * [Python Code](https://github.com/JessieLiujy/Social-Network-Analysis-Python/blob/master/total%26mean.py)
 * Data (Example in Excel file)
-* Output (Example in Excel file)
+* [Output (Example in Excel file)](https://github.com/JessieLiujy/Social-Network-Analysis-Python/blob/master/output-total%26mean.xlsx)
